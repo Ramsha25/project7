@@ -1,0 +1,24 @@
+.txt{
+    color: rgb(150, 146, 146);
+    font-size: 20px;
+}
+.sec1{
+    font-size: 40px;
+}
+.txt1{
+    font-size: 60px;
+}
+.btn{
+    width: 250px;
+}
+.main{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(23,31,142,1) 52%, rgba(0,0,0,1) 100%);
+}
+.txt2{
+    font-size: 70px;
+    font-weight: bold;
+}
+.txt3{
+    color: rgb(141, 141, 141);
+}
